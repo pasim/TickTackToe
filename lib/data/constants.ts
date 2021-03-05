@@ -1,0 +1,22 @@
+const shortcuts = {'u': 'you', 'y': 'why', 'r': 'are', 'doin': 'doing', 'hw': 'how', 'k': 'okay', 'm': 'am',
+'b4': 'before',
+'idc': "i do not care", 'ty': 'thank you', 'wlcm': 'welcome', 'bc': 'because', '<3': 'love',
+'xoxo': 'love',
+'ttyl': 'talk to you later', 'gr8': 'great', 'bday': 'birthday', 'awsm': 'awesome', 'gud': 'good',
+'h8': 'hate',
+'lv': 'love', 'dm': 'direct message', 'rt': 'retweet', 'wtf': 'hate', 'idgaf': 'hate',
+'irl': 'in real life', 'yolo': 'you only live once', "don't": "do not", 'g8': 'great',
+"won't": "will not", 'tbh': 'to be honest', 'caj': 'casual', 'Ikr': 'I know, right?',
+'omw': 'on my way',
+'ofc': 'of course', 'Idc': "I don't care", 'Irl': 'In real life', 'tbf': 'To be fair',
+'obvs': 'obviously', 'v': 'very', 'atm': 'at the moment',
+'col': 'crying out loud', 'gbu': 'god bless you', 'gby': 'god bless you', 'gotcha': 'I got you',
+'hehe': 'laughing', 'haha': 'laughing', 'hf': 'have fun',
+'hry': 'hurry', 'ikr': 'i know right',
+'lmao': 'laughing my ass off', 'lol': 'laughing out loud',
+'n1': 'nice one', 'na': 'not available', 'qt': 'cutie', 'qtpi': 'cutie pie', 'rip': 'rest in peace',
+'sry': 'sorry', 'tc': 'take care',
+'thnks': 'thanks', 'thx': 'thanks', 'thnk': 'thanks', 'txt': 'text',
+'ugh': 'disgusted', 'w8': 'wait', "not sad": "happy"}
+
+export {shortcuts}
